@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Databases
+*.db
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# HTML dumps
+data/*.html
+
+# Streamlit cache
+.streamlit/
+
+# Virtual environments
+venv/
+.venv/
+env/
